@@ -1,0 +1,105 @@
+﻿MatchID,Round,IsKnockout,MatchDate,MatchTime,Group,Team1,Team2,City,StadiumID,HomeScoreFT,AwayScoreFT,HomeScoreHT,AwayScoreHT,IsPlayed
+Matchday1_2026-06-11_Mexico_SouthAfrica,Matchday 1,False,2026-06-11,13:00 UTC-6,Group A,Mexico,South Africa,Mexico City,6,2,0,1,0,True
+Matchday1_2026-06-11_SouthKorea_CzechRepublic,Matchday 1,False,2026-06-11,20:00 UTC-6,Group A,South Korea,Czech Republic,Guadalajara (Zapopan),5,2,1,0,0,True
+Matchday8_2026-06-18_CzechRepublic_SouthAfrica,Matchday 8,False,2026-06-18,12:00 UTC-4,Group A,Czech Republic,South Africa,Atlanta,11,1,1,1,0,True
+Matchday8_2026-06-18_Mexico_SouthKorea,Matchday 8,False,2026-06-18,19:00 UTC-6,Group A,Mexico,South Korea,Guadalajara (Zapopan),5,1,0,0,0,True
+Matchday14_2026-06-24_CzechRepublic_Mexico,Matchday 14,False,2026-06-24,19:00 UTC-6,Group A,Czech Republic,Mexico,Mexico City,6,0,3,0,0,True
+Matchday14_2026-06-24_SouthAfrica_SouthKorea,Matchday 14,False,2026-06-24,19:00 UTC-6,Group A,South Africa,South Korea,Monterrey (Guadalupe),7,1,0,0,0,True
+Matchday2_2026-06-12_Canada_Bosnia&Herzegovina,Matchday 2,False,2026-06-12,15:00 UTC-4,Group B,Canada,Bosnia & Herzegovina,Toronto,13,1,1,0,1,True
+Matchday3_2026-06-13_Qatar_Switzerland,Matchday 3,False,2026-06-13,12:00 UTC-7,Group B,Qatar,Switzerland,San Francisco Bay Area (Santa Clara),3,1,1,0,1,True
+Matchday8_2026-06-18_Switzerland_Bosnia&Herzegovina,Matchday 8,False,2026-06-18,12:00 UTC-7,Group B,Switzerland,Bosnia & Herzegovina,Los Angeles (Inglewood),4,4,1,0,0,True
+Matchday8_2026-06-18_Canada_Qatar,Matchday 8,False,2026-06-18,15:00 UTC-7,Group B,Canada,Qatar,Vancouver,1,6,0,3,0,True
+Matchday14_2026-06-24_Switzerland_Canada,Matchday 14,False,2026-06-24,12:00 UTC-7,Group B,Switzerland,Canada,Vancouver,1,2,1,0,0,True
+Matchday14_2026-06-24_Bosnia&Herzegovina_Qatar,Matchday 14,False,2026-06-24,12:00 UTC-7,Group B,Bosnia & Herzegovina,Qatar,Seattle,2,3,1,2,1,True
+Matchday3_2026-06-13_Brazil_Morocco,Matchday 3,False,2026-06-13,18:00 UTC-4,Group C,Brazil,Morocco,New York/New Jersey (East Rutherford),16,1,1,1,1,True
+Matchday3_2026-06-13_Haiti_Scotland,Matchday 3,False,2026-06-13,21:00 UTC-4,Group C,Haiti,Scotland,Boston (Foxborough),14,0,1,0,1,True
+Matchday9_2026-06-19_Scotland_Morocco,Matchday 9,False,2026-06-19,18:00 UTC-4,Group C,Scotland,Morocco,Boston (Foxborough),14,0,1,0,1,True
+Matchday9_2026-06-19_Brazil_Haiti,Matchday 9,False,2026-06-19,20:30 UTC-4,Group C,Brazil,Haiti,Philadelphia,15,3,0,3,0,True
+Matchday14_2026-06-24_Scotland_Brazil,Matchday 14,False,2026-06-24,18:00 UTC-4,Group C,Scotland,Brazil,Miami (Miami Gardens),12,0,3,0,2,True
+Matchday14_2026-06-24_Morocco_Haiti,Matchday 14,False,2026-06-24,18:00 UTC-4,Group C,Morocco,Haiti,Atlanta,11,4,2,2,2,True
+Matchday2_2026-06-12_USA_Paraguay,Matchday 2,False,2026-06-12,18:00 UTC-7,Group D,USA,Paraguay,Los Angeles (Inglewood),4,4,1,3,0,True
+Matchday3_2026-06-13_Australia_Turkey,Matchday 3,False,2026-06-13,21:00 UTC-7,Group D,Australia,Turkey,Vancouver,1,2,0,1,0,True
+Matchday9_2026-06-19_USA_Australia,Matchday 9,False,2026-06-19,12:00 UTC-7,Group D,USA,Australia,Seattle,2,2,0,2,0,True
+Matchday9_2026-06-19_Turkey_Paraguay,Matchday 9,False,2026-06-19,20:00 UTC-7,Group D,Turkey,Paraguay,San Francisco Bay Area (Santa Clara),3,0,1,0,1,True
+Matchday15_2026-06-25_Turkey_USA,Matchday 15,False,2026-06-25,19:00 UTC-7,Group D,Turkey,USA,Los Angeles (Inglewood),4,3,2,2,1,True
+Matchday15_2026-06-25_Paraguay_Australia,Matchday 15,False,2026-06-25,19:00 UTC-7,Group D,Paraguay,Australia,San Francisco Bay Area (Santa Clara),3,0,0,0,0,True
+Matchday4_2026-06-14_Germany_Curaçao,Matchday 4,False,2026-06-14,12:00 UTC-5,Group E,Germany,Curaçao,Houston,8,7,1,3,1,True
+Matchday4_2026-06-14_IvoryCoast_Ecuador,Matchday 4,False,2026-06-14,19:00 UTC-4,Group E,Ivory Coast,Ecuador,Philadelphia,15,1,0,0,0,True
+Matchday10_2026-06-20_Germany_IvoryCoast,Matchday 10,False,2026-06-20,16:00 UTC-4,Group E,Germany,Ivory Coast,Toronto,13,2,1,0,1,True
+Matchday10_2026-06-20_Ecuador_Curaçao,Matchday 10,False,2026-06-20,19:00 UTC-5,Group E,Ecuador,Curaçao,Kansas City,10,0,0,0,0,True
+Matchday15_2026-06-25_Curaçao_IvoryCoast,Matchday 15,False,2026-06-25,16:00 UTC-4,Group E,Curaçao,Ivory Coast,Philadelphia,15,0,2,0,1,True
+Matchday15_2026-06-25_Ecuador_Germany,Matchday 15,False,2026-06-25,16:00 UTC-4,Group E,Ecuador,Germany,New York/New Jersey (East Rutherford),16,2,1,1,1,True
+Matchday4_2026-06-14_Netherlands_Japan,Matchday 4,False,2026-06-14,15:00 UTC-5,Group F,Netherlands,Japan,Dallas (Arlington),9,2,2,0,0,True
+Matchday4_2026-06-14_Sweden_Tunisia,Matchday 4,False,2026-06-14,20:00 UTC-6,Group F,Sweden,Tunisia,Monterrey (Guadalupe),7,5,1,2,1,True
+Matchday10_2026-06-20_Netherlands_Sweden,Matchday 10,False,2026-06-20,12:00 UTC-5,Group F,Netherlands,Sweden,Houston,8,5,1,2,0,True
+Matchday10_2026-06-20_Tunisia_Japan,Matchday 10,False,2026-06-20,22:00 UTC-6,Group F,Tunisia,Japan,Monterrey (Guadalupe),7,0,4,0,2,True
+Matchday15_2026-06-25_Japan_Sweden,Matchday 15,False,2026-06-25,18:00 UTC-5,Group F,Japan,Sweden,Dallas (Arlington),9,1,1,0,0,True
+Matchday15_2026-06-25_Tunisia_Netherlands,Matchday 15,False,2026-06-25,18:00 UTC-5,Group F,Tunisia,Netherlands,Kansas City,10,1,3,0,2,True
+Matchday5_2026-06-15_Belgium_Egypt,Matchday 5,False,2026-06-15,12:00 UTC-7,Group G,Belgium,Egypt,Seattle,2,1,1,0,1,True
+Matchday5_2026-06-15_Iran_NewZealand,Matchday 5,False,2026-06-15,18:00 UTC-7,Group G,Iran,New Zealand,Los Angeles (Inglewood),4,2,2,1,1,True
+Matchday11_2026-06-21_Belgium_Iran,Matchday 11,False,2026-06-21,12:00 UTC-7,Group G,Belgium,Iran,Los Angeles (Inglewood),4,0,0,0,0,True
+Matchday11_2026-06-21_NewZealand_Egypt,Matchday 11,False,2026-06-21,18:00 UTC-7,Group G,New Zealand,Egypt,Vancouver,1,1,3,1,0,True
+Matchday16_2026-06-26_Egypt_Iran,Matchday 16,False,2026-06-26,20:00 UTC-7,Group G,Egypt,Iran,Seattle,2,1,1,1,1,True
+Matchday16_2026-06-26_NewZealand_Belgium,Matchday 16,False,2026-06-26,20:00 UTC-7,Group G,New Zealand,Belgium,Vancouver,1,1,5,0,1,True
+Matchday5_2026-06-15_Spain_CapeVerde,Matchday 5,False,2026-06-15,12:00 UTC-4,Group H,Spain,Cape Verde,Atlanta,11,0,0,0,0,True
+Matchday5_2026-06-15_SaudiArabia_Uruguay,Matchday 5,False,2026-06-15,18:00 UTC-4,Group H,Saudi Arabia,Uruguay,Miami (Miami Gardens),12,1,1,1,0,True
+Matchday11_2026-06-21_Spain_SaudiArabia,Matchday 11,False,2026-06-21,12:00 UTC-4,Group H,Spain,Saudi Arabia,Atlanta,11,4,0,3,0,True
+Matchday11_2026-06-21_Uruguay_CapeVerde,Matchday 11,False,2026-06-21,18:00 UTC-4,Group H,Uruguay,Cape Verde,Miami (Miami Gardens),12,2,2,2,1,True
+Matchday16_2026-06-26_CapeVerde_SaudiArabia,Matchday 16,False,2026-06-26,19:00 UTC-5,Group H,Cape Verde,Saudi Arabia,Houston,8,0,0,0,0,True
+Matchday16_2026-06-26_Uruguay_Spain,Matchday 16,False,2026-06-26,18:00 UTC-6,Group H,Uruguay,Spain,Guadalajara (Zapopan),5,0,1,0,1,True
+Matchday6_2026-06-16_France_Senegal,Matchday 6,False,2026-06-16,15:00 UTC-4,Group I,France,Senegal,New York/New Jersey (East Rutherford),16,3,1,0,0,True
+Matchday6_2026-06-16_Iraq_Norway,Matchday 6,False,2026-06-16,18:00 UTC-4,Group I,Iraq,Norway,Boston (Foxborough),14,1,4,1,2,True
+Matchday12_2026-06-22_France_Iraq,Matchday 12,False,2026-06-22,17:00 UTC-4,Group I,France,Iraq,Philadelphia,15,3,0,1,0,True
+Matchday12_2026-06-22_Norway_Senegal,Matchday 12,False,2026-06-22,20:00 UTC-4,Group I,Norway,Senegal,New York/New Jersey (East Rutherford),16,3,2,1,0,True
+Matchday16_2026-06-26_Norway_France,Matchday 16,False,2026-06-26,15:00 UTC-4,Group I,Norway,France,Boston (Foxborough),14,1,4,1,3,True
+Matchday16_2026-06-26_Senegal_Iraq,Matchday 16,False,2026-06-26,15:00 UTC-4,Group I,Senegal,Iraq,Toronto,13,5,0,1,0,True
+Matchday6_2026-06-16_Argentina_Algeria,Matchday 6,False,2026-06-16,20:00 UTC-5,Group J,Argentina,Algeria,Kansas City,10,3,0,1,0,True
+Matchday6_2026-06-16_Austria_Jordan,Matchday 6,False,2026-06-16,21:00 UTC-7,Group J,Austria,Jordan,San Francisco Bay Area (Santa Clara),3,3,1,1,0,True
+Matchday12_2026-06-22_Argentina_Austria,Matchday 12,False,2026-06-22,12:00 UTC-5,Group J,Argentina,Austria,Dallas (Arlington),9,2,0,1,0,True
+Matchday12_2026-06-22_Jordan_Algeria,Matchday 12,False,2026-06-22,20:00 UTC-7,Group J,Jordan,Algeria,San Francisco Bay Area (Santa Clara),3,1,2,1,0,True
+Matchday17_2026-06-27_Algeria_Austria,Matchday 17,False,2026-06-27,21:00 UTC-5,Group J,Algeria,Austria,Kansas City,10,3,3,1,1,True
+Matchday17_2026-06-27_Jordan_Argentina,Matchday 17,False,2026-06-27,21:00 UTC-5,Group J,Jordan,Argentina,Dallas (Arlington),9,1,3,0,2,True
+Matchday7_2026-06-17_Portugal_DRCongo,Matchday 7,False,2026-06-17,12:00 UTC-5,Group K,Portugal,DR Congo,Houston,8,1,1,1,1,True
+Matchday7_2026-06-17_Uzbekistan_Colombia,Matchday 7,False,2026-06-17,20:00 UTC-6,Group K,Uzbekistan,Colombia,Mexico City,6,1,3,0,1,True
+Matchday13_2026-06-23_Portugal_Uzbekistan,Matchday 13,False,2026-06-23,12:00 UTC-5,Group K,Portugal,Uzbekistan,Houston,8,5,0,3,0,True
+Matchday13_2026-06-23_Colombia_DRCongo,Matchday 13,False,2026-06-23,20:00 UTC-6,Group K,Colombia,DR Congo,Guadalajara (Zapopan),5,1,0,0,0,True
+Matchday17_2026-06-27_Colombia_Portugal,Matchday 17,False,2026-06-27,19:30 UTC-4,Group K,Colombia,Portugal,Miami (Miami Gardens),12,0,0,0,0,True
+Matchday17_2026-06-27_DRCongo_Uzbekistan,Matchday 17,False,2026-06-27,19:30 UTC-4,Group K,DR Congo,Uzbekistan,Atlanta,11,3,1,0,1,True
+Matchday7_2026-06-17_England_Croatia,Matchday 7,False,2026-06-17,15:00 UTC-5,Group L,England,Croatia,Dallas (Arlington),9,4,2,2,2,True
+Matchday7_2026-06-17_Ghana_Panama,Matchday 7,False,2026-06-17,19:00 UTC-4,Group L,Ghana,Panama,Toronto,13,1,0,0,0,True
+Matchday13_2026-06-23_England_Ghana,Matchday 13,False,2026-06-23,16:00 UTC-4,Group L,England,Ghana,Boston (Foxborough),14,0,0,0,0,True
+Matchday13_2026-06-23_Panama_Croatia,Matchday 13,False,2026-06-23,19:00 UTC-4,Group L,Panama,Croatia,Toronto,13,0,1,0,0,True
+Matchday17_2026-06-27_Panama_England,Matchday 17,False,2026-06-27,17:00 UTC-4,Group L,Panama,England,New York/New Jersey (East Rutherford),16,0,2,0,0,True
+Matchday17_2026-06-27_Croatia_Ghana,Matchday 17,False,2026-06-27,17:00 UTC-4,Group L,Croatia,Ghana,Philadelphia,15,2,1,1,0,True
+73,Round of 32,True,2026-06-28,12:00 UTC-7,,South Africa,Canada,Los Angeles (Inglewood),4,0,1,0,0,True
+74,Round of 32,True,2026-06-29,16:30 UTC-4,,Germany,Paraguay,Boston (Foxborough),14,1,1,0,1,True
+75,Round of 32,True,2026-06-29,19:00 UTC-6,,Netherlands,Morocco,Monterrey (Guadalupe),7,1,1,0,0,True
+76,Round of 32,True,2026-06-29,12:00 UTC-5,,Brazil,Japan,Houston,8,2,1,0,1,True
+77,Round of 32,True,2026-06-30,17:00 UTC-4,,France,Sweden,New York/New Jersey (East Rutherford),16,3,0,1,0,True
+78,Round of 32,True,2026-06-30,12:00 UTC-5,,Ivory Coast,Norway,Dallas (Arlington),9,1,2,0,1,True
+79,Round of 32,True,2026-06-30,19:00 UTC-6,,Mexico,Ecuador,Mexico City,6,2,0,1,0,True
+80,Round of 32,True,2026-07-01,12:00 UTC-4,,England,DR Congo,Atlanta,11,2,1,0,1,True
+81,Round of 32,True,2026-07-01,17:00 UTC-7,,USA,Bosnia & Herzegovina,San Francisco Bay Area (Santa Clara),3,2,0,1,0,True
+82,Round of 32,True,2026-07-01,13:00 UTC-7,,Belgium,Senegal,Seattle,2,2,2,0,1,True
+83,Round of 32,True,2026-07-02,19:00 UTC-4,,Portugal,Croatia,Toronto,13,2,1,0,0,True
+84,Round of 32,True,2026-07-02,12:00 UTC-7,,Spain,Austria,Los Angeles (Inglewood),4,3,0,1,0,True
+85,Round of 32,True,2026-07-02,20:00 UTC-7,,Switzerland,Algeria,Vancouver,1,2,0,1,0,True
+86,Round of 32,True,2026-07-03,18:00 UTC-4,,Argentina,Cape Verde,Miami (Miami Gardens),12,1,1,1,0,True
+87,Round of 32,True,2026-07-03,20:30 UTC-5,,Colombia,Ghana,Kansas City,10,1,0,1,0,True
+88,Round of 32,True,2026-07-03,13:00 UTC-5,,Australia,Egypt,Dallas (Arlington),9,1,1,0,1,True
+89,Round of 16,True,2026-07-04,17:00 UTC-4,,Paraguay,France,Philadelphia,15,0,1,0,0,True
+90,Round of 16,True,2026-07-04,12:00 UTC-5,,Canada,Morocco,Houston,8,0,3,0,0,True
+91,Round of 16,True,2026-07-05,16:00 UTC-4,,Brazil,Norway,New York/New Jersey (East Rutherford),16,1,2,0,0,True
+92,Round of 16,True,2026-07-05,18:00 UTC-6,,Mexico,England,Mexico City,6,2,3,1,2,True
+93,Round of 16,True,2026-07-06,14:00 UTC-5,,Portugal,Spain,Dallas (Arlington),9,0,1,0,0,True
+94,Round of 16,True,2026-07-06,17:00 UTC-7,,USA,Belgium,Seattle,2,1,4,1,2,True
+95,Round of 16,True,2026-07-07,12:00 UTC-4,,Argentina,Egypt,Atlanta,11,3,2,0,1,True
+96,Round of 16,True,2026-07-07,13:00 UTC-7,,Switzerland,Colombia,Vancouver,1,0,0,0,0,True
+97,Quarter-final,True,2026-07-09,16:00 UTC-4,,France,Morocco,Boston (Foxborough),14,2,0,0,0,True
+98,Quarter-final,True,2026-07-10,12:00 UTC-7,,Spain,Belgium,Los Angeles (Inglewood),4,,,,,False
+99,Quarter-final,True,2026-07-11,17:00 UTC-4,,Norway,England,Miami (Miami Gardens),12,,,,,False
+100,Quarter-final,True,2026-07-11,20:00 UTC-5,,Argentina,Switzerland,Kansas City,10,,,,,False
+101,Semi-final,True,2026-07-14,14:00 UTC-5,,W97,W98,Dallas (Arlington),9,,,,,False
+102,Semi-final,True,2026-07-15,15:00 UTC-4,,W99,W100,Atlanta,11,,,,,False
+103,Match for third place,True,2026-07-18,17:00 UTC-4,,L101,L102,Miami (Miami Gardens),12,,,,,False
+104,Final,True,2026-07-19,15:00 UTC-4,,W101,W102,New York/New Jersey (East Rutherford),16,,,,,False

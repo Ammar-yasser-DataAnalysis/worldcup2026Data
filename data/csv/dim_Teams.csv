@@ -1,0 +1,49 @@
+﻿TeamID,TeamName,FifaCode,Group,Confederation,Continent,FlagIcon
+1,Mexico,MEX,A,CONCACAF,North America,🇲🇽
+2,South Africa,RSA,A,CAF,Africa,🇿🇦
+3,South Korea,KOR,A,AFC,Asia,🇰🇷
+4,Czech Republic,CZE,A,UEFA,Europe,🇨🇿
+5,Canada,CAN,B,CONCACAF,North America,🇨🇦
+6,Bosnia & Herzegovina,BIH,B,UEFA,Europe,🇧🇦
+7,Qatar,QAT,B,AFC,Asia,🇶🇦
+8,Switzerland,SUI,B,UEFA,Europe,🇨🇭
+9,Brazil,BRA,C,CONMEBOL,South America,🇧🇷
+10,Morocco,MAR,C,CAF,Africa,🇲🇦
+11,Haiti,HAI,C,CONCACAF,North America,🇭🇹
+12,Scotland,SCO,C,UEFA,Europe,🏴󠁧󠁢󠁳󠁣󠁴󠁿
+13,USA,USA,D,CONCACAF,North America,🇺🇸
+14,Paraguay,PAR,D,CONMEBOL,South America,🇵🇾
+15,Australia,AUS,D,AFC,Oceania,🇦🇺
+16,Turkey,TUR,D,UEFA,Europe,🇹🇷
+17,Germany,GER,E,UEFA,Europe,🇩🇪
+18,Curaçao,CUW,E,CONCACAF,North America,🇨🇼
+19,Ivory Coast,CIV,E,CAF,Africa,🇨🇮
+20,Ecuador,ECU,E,CONMEBOL,South America,🇪🇨
+21,Netherlands,NED,F,UEFA,Europe,🇳🇱
+22,Japan,JPN,F,AFC,Asia,🇯🇵
+23,Sweden,SWE,F,UEFA,Europe,🇸🇪
+24,Tunisia,TUN,F,CAF,Africa,🇹🇳
+25,Belgium,BEL,G,UEFA,Europe,🇧🇪
+26,Egypt,EGY,G,CAF,Africa,🇪🇬
+27,Iran,IRN,G,AFC,Asia,🇮🇷
+28,New Zealand,NZL,G,OFC,Oceania,🇳🇿
+29,Spain,ESP,H,UEFA,Europe,🇪🇸
+30,Cape Verde,CPV,H,CAF,Africa,🇨🇻
+31,Saudi Arabia,KSA,H,AFC,Asia,🇸🇦
+32,Uruguay,URU,H,CONMEBOL,South America,🇺🇾
+33,France,FRA,I,UEFA,Europe,🇫🇷
+34,Senegal,SEN,I,CAF,Africa,🇸🇳
+35,Iraq,IRQ,I,AFC,Asia,🇮🇶
+36,Norway,NOR,I,UEFA,Europe,🇳🇴
+37,Argentina,ARG,J,CONMEBOL,South America,🇦🇷
+38,Algeria,ALG,J,CAF,Africa,🇩🇿
+39,Austria,AUT,J,UEFA,Europe,🇦🇹
+40,Jordan,JOR,J,AFC,Asia,🇯🇴
+41,Portugal,POR,K,UEFA,Europe,🇵🇹
+42,DR Congo,COD,K,CAF,Africa,🇨🇩
+43,Uzbekistan,UZB,K,AFC,Asia,🇺🇿
+44,Colombia,COL,K,CONMEBOL,South America,🇨🇴
+45,England,ENG,L,UEFA,Europe,🏴󠁧󠁢󠁥󠁮󠁧󠁿
+46,Croatia,CRO,L,UEFA,Europe,🇭🇷
+47,Ghana,GHA,L,CAF,Africa,🇬🇭
+48,Panama,PAN,L,CONCACAF,North America,🇵🇦

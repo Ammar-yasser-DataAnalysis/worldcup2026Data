@@ -1,0 +1,17 @@
+﻿StadiumID,StadiumName,City,CountryCode,Capacity,Timezone,Coordinates
+1,BC Place,Vancouver,ca,54000,UTC-7,"49°16'36""N 123°6'43""W"
+2,Lumen Field,Seattle,us,69000,UTC-7,"47°35'43""N 122°19'54""W"
+3,Levi's Stadium,San Francisco Bay Area (Santa Clara),us,71000,UTC-7,37.403°N 121.970°W
+4,SoFi Stadium,Los Angeles (Inglewood),us,70000,UTC-7,33.953°N 118.339°W
+5,Estadio Akron,Guadalajara (Zapopan),mx,48000,UTC-6,"20°40'54""N 103°27'46""W"
+6,Estadio Azteca,Mexico City,mx,83000,UTC-6,"19°18'11""N 99°09'02""W"
+7,Estadio BBVA,Monterrey (Guadalupe),mx,53500,UTC-6,"25°40'9""N 100°14'40""W"
+8,NRG Stadium,Houston,us,72000,UTC-5,"29°41'5""N 95°24'39""W"
+9,AT&T Stadium,Dallas (Arlington),us,94000,UTC-5,"32°44'52""N 97°5'34""W"
+10,Arrowhead Stadium,Kansas City,us,73000,UTC-5,"39°2'56""N 94°29'2""W"
+11,Mercedes-Benz Stadium,Atlanta,us,75000,UTC-4,"33°45'20""N 84°24'00""W"
+12,Hard Rock Stadium,Miami (Miami Gardens),us,65000,UTC-4,"25°57'29""N 80°14'20""W"
+13,BMO Field,Toronto,ca,45000,UTC-4,"43°38'0""N 79°25'07""W"
+14,Gillette Stadium,Boston (Foxborough),us,65000,UTC-4,42.091°N 71.264°W
+15,Lincoln Financial Field,Philadelphia,us,69000,UTC-4,"39°54'3""N 75°10'3""W"
+16,MetLife Stadium,New York/New Jersey (East Rutherford),us,82500,UTC-4,"40°48'48.7""N 74°4'27.7""W"
