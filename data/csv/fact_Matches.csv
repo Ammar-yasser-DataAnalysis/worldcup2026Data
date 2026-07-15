@@ -100,6 +100,6 @@ Matchday17_2026-06-27_Croatia_Ghana,Matchday 17,False,2026-06-27,17:00 UTC-4,Gro
 99,Quarter-final,True,2026-07-11,17:00 UTC-4,,Norway,England,Miami (Miami Gardens),12,1,1,1,1,True
 100,Quarter-final,True,2026-07-11,20:00 UTC-5,,Argentina,Switzerland,Kansas City,10,1,1,1,0,True
 101,Semi-final,True,2026-07-14,14:00 UTC-5,,France,Spain,Dallas (Arlington),9,0,2,0,1,True
-102,Semi-final,True,2026-07-15,15:00 UTC-4,,England,Argentina,Atlanta,11,,,,,False
-103,Match for third place,True,2026-07-18,17:00 UTC-4,,France,L102,Miami (Miami Gardens),12,,,,,False
-104,Final,True,2026-07-19,15:00 UTC-4,,Spain,W102,New York/New Jersey (East Rutherford),16,,,,,False
+102,Semi-final,True,2026-07-15,15:00 UTC-4,,England,Argentina,Atlanta,11,1,2,0,0,True
+103,Match for third place,True,2026-07-18,17:00 UTC-4,,France,England,Miami (Miami Gardens),12,,,,,False
+104,Final,True,2026-07-19,15:00 UTC-4,,Spain,Argentina,New York/New Jersey (East Rutherford),16,,,,,False
