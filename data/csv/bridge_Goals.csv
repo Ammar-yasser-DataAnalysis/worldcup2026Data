@@ -16,8 +16,8 @@
 15,Matchday3_2026-06-13_Qatar_Switzerland,Miro Muheim,Qatar,Switzerland,90+4,90.04,True,False
 16,Matchday3_2026-06-13_Qatar_Switzerland,Breel Embolo,Switzerland,Switzerland,17,17.0,False,True
 17,Matchday8_2026-06-18_Switzerland_Bosnia&Herzegovina,Johan Manzambi,Switzerland,Switzerland,74,74.0,False,False
-18,Matchday8_2026-06-18_Switzerland_Bosnia&Herzegovina,Johan Manzambi,Switzerland,Switzerland,90,90.0,False,False
-19,Matchday8_2026-06-18_Switzerland_Bosnia&Herzegovina,Rubén Vargas,Switzerland,Switzerland,84,84.0,False,False
+18,Matchday8_2026-06-18_Switzerland_Bosnia&Herzegovina,Rubén Vargas,Switzerland,Switzerland,84,84.0,False,False
+19,Matchday8_2026-06-18_Switzerland_Bosnia&Herzegovina,Johan Manzambi,Switzerland,Switzerland,90,90.0,False,False
 20,Matchday8_2026-06-18_Switzerland_Bosnia&Herzegovina,Granit Xhaka,Switzerland,Switzerland,90+7,90.07,False,True
 21,Matchday8_2026-06-18_Switzerland_Bosnia&Herzegovina,Ermin Mahmic,Bosnia & Herzegovina,Bosnia & Herzegovina,90+3,90.03,False,False
 22,Matchday8_2026-06-18_Canada_Qatar,Cyle Larin,Canada,Canada,16,16.0,False,False
@@ -67,10 +67,10 @@
 66,Matchday4_2026-06-14_Germany_Curaçao,Felix Nmecha,Germany,Germany,6,6.0,False,False
 67,Matchday4_2026-06-14_Germany_Curaçao,Nico Schlotterbeck,Germany,Germany,38,38.0,False,False
 68,Matchday4_2026-06-14_Germany_Curaçao,Kai Havertz,Germany,Germany,45+5,45.05,False,True
-69,Matchday4_2026-06-14_Germany_Curaçao,Kai Havertz,Germany,Germany,88,88.0,False,False
-70,Matchday4_2026-06-14_Germany_Curaçao,Jamal Musiala,Germany,Germany,47,47.0,False,False
-71,Matchday4_2026-06-14_Germany_Curaçao,Nathaniel Brown,Germany,Germany,68,68.0,False,False
-72,Matchday4_2026-06-14_Germany_Curaçao,Deniz Undav,Germany,Germany,78,78.0,False,False
+69,Matchday4_2026-06-14_Germany_Curaçao,Jamal Musiala,Germany,Germany,47,47.0,False,False
+70,Matchday4_2026-06-14_Germany_Curaçao,Nathaniel Brown,Germany,Germany,68,68.0,False,False
+71,Matchday4_2026-06-14_Germany_Curaçao,Deniz Undav,Germany,Germany,78,78.0,False,False
+72,Matchday4_2026-06-14_Germany_Curaçao,Kai Havertz,Germany,Germany,88,88.0,False,False
 73,Matchday4_2026-06-14_Germany_Curaçao,Livano Comenencia,Curaçao,Curaçao,21,21.0,False,False
 74,Matchday4_2026-06-14_IvoryCoast_Ecuador,Amad Diallo,Ivory Coast,Ivory Coast,90,90.0,False,False
 75,Matchday10_2026-06-20_Germany_IvoryCoast,Deniz Undav,Germany,Germany,68,68.0,False,False
@@ -86,10 +86,10 @@
 85,Matchday4_2026-06-14_Netherlands_Japan,Keito Nakamura,Japan,Japan,57,57.0,False,False
 86,Matchday4_2026-06-14_Netherlands_Japan,Daichi Kamada,Japan,Japan,88,88.0,False,False
 87,Matchday4_2026-06-14_Sweden_Tunisia,Yasin Ayari,Sweden,Sweden,7,7.0,False,False
-88,Matchday4_2026-06-14_Sweden_Tunisia,Yasin Ayari,Sweden,Sweden,90+6,90.06,False,False
-89,Matchday4_2026-06-14_Sweden_Tunisia,Alexander Isak,Sweden,Sweden,30,30.0,False,False
-90,Matchday4_2026-06-14_Sweden_Tunisia,Viktor Gyökeres,Sweden,Sweden,59,59.0,False,False
-91,Matchday4_2026-06-14_Sweden_Tunisia,Mattias Svanberg,Sweden,Sweden,84,84.0,False,False
+88,Matchday4_2026-06-14_Sweden_Tunisia,Alexander Isak,Sweden,Sweden,30,30.0,False,False
+89,Matchday4_2026-06-14_Sweden_Tunisia,Viktor Gyökeres,Sweden,Sweden,59,59.0,False,False
+90,Matchday4_2026-06-14_Sweden_Tunisia,Mattias Svanberg,Sweden,Sweden,84,84.0,False,False
+91,Matchday4_2026-06-14_Sweden_Tunisia,Yasin Ayari,Sweden,Sweden,90+6,90.06,False,False
 92,Matchday4_2026-06-14_Sweden_Tunisia,Omar Rekik,Tunisia,Tunisia,43,43.0,False,False
 93,Matchday10_2026-06-20_Netherlands_Sweden,Brian Brobbey,Netherlands,Netherlands,5,5.0,False,False
 94,Matchday10_2026-06-20_Netherlands_Sweden,Brian Brobbey,Netherlands,Netherlands,17,17.0,False,False
@@ -99,8 +99,8 @@
 98,Matchday10_2026-06-20_Netherlands_Sweden,Anthony Elanga,Sweden,Sweden,59,59.0,False,False
 99,Matchday10_2026-06-20_Tunisia_Japan,Daichi Kamada,Japan,Japan,4,4.0,False,False
 100,Matchday10_2026-06-20_Tunisia_Japan,Ayase Ueda,Japan,Japan,31,31.0,False,False
-101,Matchday10_2026-06-20_Tunisia_Japan,Ayase Ueda,Japan,Japan,83,83.0,False,False
-102,Matchday10_2026-06-20_Tunisia_Japan,Junya Ito,Japan,Japan,69,69.0,False,False
+101,Matchday10_2026-06-20_Tunisia_Japan,Junya Ito,Japan,Japan,69,69.0,False,False
+102,Matchday10_2026-06-20_Tunisia_Japan,Ayase Ueda,Japan,Japan,83,83.0,False,False
 103,Matchday15_2026-06-25_Japan_Sweden,Daizen Maeda,Japan,Japan,56,56.0,False,False
 104,Matchday15_2026-06-25_Japan_Sweden,Anthony Elanga,Sweden,Sweden,62,62.0,False,False
 105,Matchday15_2026-06-25_Tunisia_Netherlands,Hazem Mastouri,Tunisia,Tunisia,54,54.0,False,False
@@ -137,8 +137,8 @@
 136,Matchday11_2026-06-21_Uruguay_CapeVerde,Hélio Varela,Cape Verde,Cape Verde,61,61.0,False,False
 137,Matchday16_2026-06-26_Uruguay_Spain,Álex Baena,Spain,Spain,42,42.0,False,False
 138,Matchday6_2026-06-16_France_Senegal,Kylian Mbappé,France,France,66,66.0,False,False
-139,Matchday6_2026-06-16_France_Senegal,Kylian Mbappé,France,France,90+6,90.06,False,False
-140,Matchday6_2026-06-16_France_Senegal,Bradley Barcola,France,France,82,82.0,False,False
+139,Matchday6_2026-06-16_France_Senegal,Bradley Barcola,France,France,82,82.0,False,False
+140,Matchday6_2026-06-16_France_Senegal,Kylian Mbappé,France,France,90+6,90.06,False,False
 141,Matchday6_2026-06-16_France_Senegal,Ibrahim Mbaye,Senegal,Senegal,90+5,90.05,False,False
 142,Matchday6_2026-06-16_Iraq_Norway,Aymen Hussein,Iraq,Iraq,39,39.0,False,False
 143,Matchday6_2026-06-16_Iraq_Norway,Erling Haaland,Norway,Norway,29,29.0,False,False
@@ -192,8 +192,8 @@
 191,Matchday7_2026-06-17_Uzbekistan_Colombia,Luis Díaz,Colombia,Colombia,65,65.0,False,False
 192,Matchday7_2026-06-17_Uzbekistan_Colombia,Jáminton Campaz,Colombia,Colombia,90+9,90.09,False,False
 193,Matchday13_2026-06-23_Portugal_Uzbekistan,Cristiano Ronaldo,Portugal,Portugal,6,6.0,False,False
-194,Matchday13_2026-06-23_Portugal_Uzbekistan,Cristiano Ronaldo,Portugal,Portugal,39,39.0,False,False
-195,Matchday13_2026-06-23_Portugal_Uzbekistan,Nuno Mendes,Portugal,Portugal,17,17.0,False,False
+194,Matchday13_2026-06-23_Portugal_Uzbekistan,Nuno Mendes,Portugal,Portugal,17,17.0,False,False
+195,Matchday13_2026-06-23_Portugal_Uzbekistan,Cristiano Ronaldo,Portugal,Portugal,39,39.0,False,False
 196,Matchday13_2026-06-23_Portugal_Uzbekistan,Abduvohid Nematov,Portugal,Uzbekistan,60,60.0,True,False
 197,Matchday13_2026-06-23_Portugal_Uzbekistan,Rafael Leão,Portugal,Portugal,87,87.0,False,False
 198,Matchday13_2026-06-23_Colombia_DRCongo,Daniel Muñoz,Colombia,Colombia,76,76.0,False,False
@@ -223,8 +223,8 @@
 222,76,Gabriel Martinelli,Brazil,Brazil,90+5,90.05,False,False
 223,76,Kaishu Sano,Japan,Japan,29,29.0,False,False
 224,77,Kylian Mbappé,France,France,45,45.0,False,False
-225,77,Kylian Mbappé,France,France,74,74.0,False,False
-226,77,Bradley Barcola,France,France,53,53.0,False,False
+225,77,Bradley Barcola,France,France,53,53.0,False,False
+226,77,Kylian Mbappé,France,France,74,74.0,False,False
 227,78,Amad Diallo,Ivory Coast,Ivory Coast,74,74.0,False,False
 228,78,Antonio Nusa,Norway,Norway,39,39.0,False,False
 229,78,Erling Haaland,Norway,Norway,86,86.0,False,False
@@ -244,8 +244,8 @@
 243,83,Gonçalo Ramos,Portugal,Portugal,90+4,90.04,False,False
 244,83,Ivan Perisic,Croatia,Croatia,53,53.0,False,False
 245,84,Mikel Oyarzabal,Spain,Spain,36,36.0,False,False
-246,84,Mikel Oyarzabal,Spain,Spain,89,89.0,False,False
-247,84,Pedro Porro,Spain,Spain,66,66.0,False,False
+246,84,Pedro Porro,Spain,Spain,66,66.0,False,False
+247,84,Mikel Oyarzabal,Spain,Spain,89,89.0,False,False
 248,85,Breel Embolo,Switzerland,Switzerland,10,10.0,False,False
 249,85,Dan Ndoye,Switzerland,Switzerland,46,46.0,False,False
 250,86,Lionel Messi,Argentina,Argentina,29,29.0,False,False
